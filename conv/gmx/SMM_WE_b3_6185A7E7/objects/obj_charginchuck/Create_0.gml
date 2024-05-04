@@ -1,0 +1,21 @@
+hardness = 0
+stomp = 0
+edible = 2
+direct = 1
+swimming = 0
+wings = 0
+w_wings = 0
+obj_generador = 0
+apilar = 0
+obj_apilar = ""
+obj_apilar_wings = 0
+apilado = 0
+my_apilar = 0
+big = 0
+dead_h = 0
+innave = 0
+hp = 3
+image_speed = 0
+alarm[0] = 6
+alarm[10] = 60
+

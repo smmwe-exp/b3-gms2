@@ -1,0 +1,2 @@
+walljump = 0
+

@@ -1,0 +1,45 @@
+global.yoshi = 1
+colour = 0
+color = 0
+turning = 0
+turn = 0
+licking = 0
+locked = 0
+direct = 1
+sprite_mario = 0
+index_mario = 0
+x_mario = 0
+y_mario = 0
+mouthholder = -4
+mouthsprite = -4
+mouthnumb = 0
+powerup = -4
+berry = -4
+anim = 0
+jumping = 0
+flying = 0
+flyanim = 0
+flutter = 0
+fluttertime = 0
+f = 0
+myy = 0
+stateprev = 0
+if (global.carrieditem != -4)
+{
+    mouthholder = global.carrieditem
+    global.carrieditem = -4
+    mouthsprite = global.carriedsprite
+    global.carritedsprite = -4
+}
+s_yoshi_flutter_lick = 2068
+s_yoshi_jump = 2065
+s_yoshi_swallow = 2076
+s_yoshi_lick = 2075
+s_yoshi_fm_wait = 2072
+s_yoshi_wait = 2066
+s_yoshi_fm = 2070
+s_yoshi = 2064
+s_yoshi_fm_flutter = 2073
+s_yoshi_fm_jump = 2071
+s_yoshi_flutter = 2067
+

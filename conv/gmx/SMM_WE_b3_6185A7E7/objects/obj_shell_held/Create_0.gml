@@ -1,0 +1,21 @@
+koopainside = 0
+hardness = 0
+stomp = 0
+edible = 1
+fall = 0
+midair = 0
+s_dry = 1900
+direct = -1
+prevhspeed = 0
+prevvspeed = 0
+harmplayer = 0
+swimming = 0
+dead_h = 0
+key = 0
+apilar = 0
+inmune = 0
+shell_drop = 0
+mytopid = 0
+image_speed = 0.2
+alarm[10] = 4
+

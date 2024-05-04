@@ -1,0 +1,2 @@
+global.last_level = ""
+
